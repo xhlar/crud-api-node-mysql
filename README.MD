@@ -2,12 +2,16 @@
 An Api in NodeJS with MySQL with ExpressJS
 
 
-### Do
+### Api can do 
 
-- POST ### create a new customer
-- GET ### get all customers or get by id
-- UPDATE ### update a customer with id
-- DELETE ### delete a customer with id
+- POST 
+create a new customer
+- GET 
+get all customers or get by id
+- UPDATE 
+update a customer with id
+- DELETE 
+delete a customer with id
 
 
 ### How to run
@@ -16,10 +20,10 @@ database.sql
 
 
 2. Create your own .env and put in 
-DB_HOST=
-DB_USER=
-DB_PASSWORD=
-DB_DATABASE=
+- DB_HOST=
+- DB_USER=
+- DB_PASSWORD=
+- DB_DATABASE=
 
 3. npm install
 
